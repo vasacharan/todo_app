@@ -1,11 +1,12 @@
 import React from 'react';
+import TypingApp from './Components/TypingApp';
 
-import Task from './Components/Task';
 
 const App = () =>{
+
 return(
   <div>
- <Task />
+    <TypingApp />
 
   </div>
 )
